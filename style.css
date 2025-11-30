@@ -1,0 +1,42 @@
+/*Fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+h1{
+    color: #ffedc8;
+}
+
+h2{
+    color: #0f1e11;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #CCD9AB;
+}
+
+/*Header do Menu*/
+header {
+    background-color: #0f1e11;
+    padding: 5px;
+    text-align:right;
+}
+header nav a {
+    padding: 10px;
+}
+
+
+.a {
+    background-color: #0f1e11;
+    padding: 15px;
+    margin: 15px;
+}
+div nav a {
+    color: #ffedc8;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+}
+div nav a:hover {
+    text-decoration: underline;
+}
